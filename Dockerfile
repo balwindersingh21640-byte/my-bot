@@ -1,0 +1,1 @@
+FROM freqtradeorg/freqtrade:stable
