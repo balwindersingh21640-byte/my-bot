@@ -16,7 +16,7 @@
         "unit": "minutes"
     },
     "exchange": {
-       "name": "okx",
+   "name": "okx",
         "pair_whitelist": ["BTC/USDT", "ETH/USDT", "SOL/USDT"],
         "pair_blacklist": []
     },
